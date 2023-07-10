@@ -44,10 +44,6 @@ button2 = Button(parentwindow,
                 image=photo2,
                 compound='right')
 
-if button2 == click(
-    open(),
-    webbrowser.open("https://www.linkedin.com/in/liam-hardman-451a7a262/")
-):
 
 
 
